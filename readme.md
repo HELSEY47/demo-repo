@@ -1,6 +1,6 @@
 # Demo
 
-Some Deescription.
+Some Description.
 
 ## Sub Demo
 
